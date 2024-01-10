@@ -545,12 +545,3 @@ MEDIA QUERIES FOR ALL DEVICES STARTED FROM HERE
 
 /*   ANIMATIONS STARTED FROM HERE */
 
-@keyframes rotate {
-    from{
-        transform: rotate(0deg);
-    }
-    to{
-        transform: rotate(360deg);
-    }
-    
-}
